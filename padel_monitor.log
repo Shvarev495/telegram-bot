@@ -1,0 +1,214 @@
+2025-08-13 23:29:14,067 - INFO - ЗАПУСК МОНИТОРИНГА СЛОТОВ ПАДЕЛ
+2025-08-13 23:29:14,069 - INFO - Авторизация отключена, баскетбол убран
+2025-08-13 23:29:14,070 - INFO - Мониторинг: Winbox Падел, Zona Padela
+2025-08-13 23:29:18,432 - ERROR - TG ошибка 1599566837: object Message can't be used in 'await' expression
+2025-08-13 23:29:18,732 - ERROR - TG ошибка 1422173650: Chat not found
+2025-08-13 23:29:18,737 - INFO - Старт проверки всех сайтов...
+2025-08-13 23:29:21,827 - INFO - Открываем Winbox Падел: https://winboxmsk.ru/schedule?types=padel
+2025-08-13 23:29:43,139 - INFO - URL: https://winboxmsk.ru/schedule?types=padel
+2025-08-13 23:29:43,160 - INFO - Title: WIN BOX
+2025-08-13 23:29:44,295 - INFO - Проверяем дату 19...
+2025-08-13 23:29:44,296 - INFO - Выбираем дату 19...
+2025-08-13 23:30:03,808 - INFO - Клик по '10:00 - 11:00
+
+11:00 - 12:00
+
+12:00 - 13:00
+
+13:00 - 14:00
+
+14:00 - 15:00
+
+15:00 - 16:00
+
+16:00 - 17:00
+
+17:00 - 18:00
+
+18:00 - 19:00
+
+19:00 - 20:00
+
+20:00 - 21:00' (div:has-text("19")) не удался: ElementHandle.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+2025-08-13 23:30:11,640 - INFO - Проверяем дату 18...
+2025-08-13 23:30:11,641 - INFO - Выбираем дату 18...
+2025-08-13 23:30:43,554 - INFO - Проверяем дату 20...
+2025-08-13 23:30:43,555 - INFO - Выбираем дату 20...
+2025-08-13 23:31:08,709 - INFO - Проверяем дату 21...
+2025-08-13 23:31:08,710 - INFO - Выбираем дату 21...
+2025-08-13 23:31:38,461 - INFO - Открываем Zona Padela: https://n1594888.yclients.com/company/1434507/activity/select?o=act2025-08-05
+2025-08-13 23:31:58,015 - INFO - Проверяем дату 11 (Zona)...
+2025-08-13 23:32:00,317 - INFO - Проверяем дату 12 (Zona)...
+2025-08-13 23:32:02,517 - INFO - Проверяем дату 13 (Zona)...
+2025-08-13 23:32:04,700 - INFO - Проверяем дату 14 (Zona)...
+2025-08-13 23:32:06,847 - INFO - Проверяем дату 15 (Zona)...
+2025-08-13 23:32:08,972 - INFO - Проверяем дату 16 (Zona)...
+2025-08-13 23:32:13,564 - INFO - Ждём 30 сек...
+2025-08-13 23:32:37,007 - INFO - ЗАПУСК МОНИТОРИНГА СЛОТОВ ПАДЕЛ
+2025-08-13 23:32:37,007 - INFO - Авторизация отключена, баскетбол убран
+2025-08-13 23:32:37,010 - INFO - Мониторинг: Winbox Падел, Zona Padela
+2025-08-13 23:32:38,841 - ERROR - TG ошибка 1599566837: object Message can't be used in 'await' expression
+2025-08-13 23:32:39,054 - ERROR - TG ошибка 1422173650: Chat not found
+2025-08-13 23:32:39,058 - INFO - Старт проверки всех сайтов...
+2025-08-13 23:32:41,185 - INFO - Открываем Winbox Падел: https://winboxmsk.ru/schedule?types=padel
+2025-08-13 23:32:45,164 - ERROR - check_site: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://winboxmsk.ru/schedule?types=padel", waiting until "networkidle"
+
+2025-08-13 23:33:05,234 - INFO - ЗАПУСК МОНИТОРИНГА СЛОТОВ ПАДЕЛ
+2025-08-13 23:33:05,235 - INFO - Авторизация отключена, баскетбол убран
+2025-08-13 23:33:05,236 - INFO - Мониторинг: Winbox Падел, Zona Padela
+2025-08-13 23:33:07,650 - ERROR - TG ошибка 1599566837: object Message can't be used in 'await' expression
+2025-08-13 23:33:08,515 - ERROR - TG ошибка 1422173650: Chat not found
+2025-08-13 23:33:08,518 - INFO - Старт проверки всех сайтов...
+2025-08-13 23:33:10,683 - INFO - Открываем Winbox Падел: https://winboxmsk.ru/schedule?types=padel
+2025-08-13 23:33:21,712 - INFO - URL: https://winboxmsk.ru/schedule?types=padel
+2025-08-13 23:33:21,727 - INFO - Title: WIN BOX
+2025-08-13 23:33:22,864 - INFO - Проверяем дату 17...
+2025-08-13 23:33:22,865 - INFO - Выбираем дату 17...
+2025-08-13 23:33:42,122 - INFO - Клик по '10:00 - 11:00
+
+11:00 - 12:00
+
+12:00 - 13:00
+
+13:00 - 14:00
+
+14:00 - 15:00
+
+15:00 - 16:00
+
+16:00 - 17:00
+
+17:00 - 18:00
+
+18:00 - 19:00
+
+19:00 - 20:00
+
+20:00 - 21:00' (div:has-text("17")) не удался: ElementHandle.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+2025-08-13 23:33:49,938 - INFO - Проверяем дату 18...
+2025-08-13 23:33:49,939 - INFO - Выбираем дату 18...
+2025-08-13 23:34:09,195 - INFO - Клик по '12:00 - 13:00
+
+13:00 - 14:00
+
+14:00 - 15:00
+
+15:00 - 16:00
+
+16:00 - 17:00
+
+17:00 - 18:00
+
+18:00 - 19:00
+
+19:00 - 20:00
+
+20:00 - 21:00' (div:has-text("18")) не удался: ElementHandle.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+2025-08-13 23:34:14,235 - ERROR - Критическая ошибка для Winbox Падел: Browser.close: Connection closed while reading from the driver
+2025-08-14 12:27:39,376 - INFO - ЗАПУСК МОНИТОРИНГА СЛОТОВ ПАДЕЛ
+2025-08-14 12:27:39,377 - INFO - Авторизация отключена, баскетбол убран
+2025-08-14 12:27:39,378 - INFO - Мониторинг: Winbox Падел, Zona Padela
+2025-08-14 12:27:39,984 - ERROR - TG ошибка 1599566837: object Message can't be used in 'await' expression
+2025-08-14 12:27:40,063 - ERROR - TG ошибка 1422173650: Chat not found
+2025-08-14 12:27:40,067 - INFO - Старт проверки всех сайтов...
+2025-08-14 12:27:41,710 - INFO - Открываем Winbox Падел: https://winboxmsk.ru/schedule?types=padel
+2025-08-14 12:27:45,911 - INFO - URL: https://winboxmsk.ru/schedule?types=padel
+2025-08-14 12:27:45,919 - INFO - Title: WIN BOX
+2025-08-14 12:27:46,990 - INFO - Проверяем дату 19...
+2025-08-14 12:27:46,990 - INFO - Выбираем дату 19...
+2025-08-14 12:28:05,096 - INFO - Клик по '10:00 - 11:00
+
+11:00 - 12:00
+
+12:00 - 13:00
+
+13:00 - 14:00
+
+14:00 - 15:00
+
+15:00 - 16:00
+
+16:00 - 17:00
+
+17:00 - 18:00
+
+18:00 - 19:00' (div:has-text("19")) не удался: ElementHandle.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+2025-08-14 12:28:12,735 - INFO - Проверяем дату 18...
+2025-08-14 12:28:12,736 - INFO - Выбираем дату 18...
+2025-08-14 12:28:42,927 - INFO - Проверяем дату 20...
+2025-08-14 12:28:42,928 - INFO - Выбираем дату 20...
+2025-08-14 12:29:06,903 - INFO - Проверяем дату 21...
+2025-08-14 12:29:06,903 - INFO - Выбираем дату 21...
+2025-08-14 12:29:33,954 - INFO - Открываем Zona Padela: https://n1594888.yclients.com/company/1434507/activity/select?o=act2025-08-05
+2025-08-14 12:29:42,828 - INFO - Проверяем дату 11 (Zona)...
+2025-08-14 12:29:44,958 - INFO - Проверяем дату 12 (Zona)...
+2025-08-14 12:29:46,995 - INFO - Проверяем дату 13 (Zona)...
+2025-08-14 12:29:49,003 - INFO - Проверяем дату 14 (Zona)...
+2025-08-14 12:29:50,992 - INFO - Проверяем дату 15 (Zona)...
+2025-08-14 12:29:53,005 - INFO - Проверяем дату 16 (Zona)...
+2025-08-14 12:29:57,277 - INFO - Ждём 30 сек...
+2025-08-14 12:30:27,286 - INFO - Старт проверки всех сайтов...
+2025-08-14 12:30:28,679 - INFO - Открываем Winbox Падел: https://winboxmsk.ru/schedule?types=padel
+2025-08-14 12:30:32,971 - INFO - URL: https://winboxmsk.ru/schedule?types=padel
+2025-08-14 12:30:32,984 - INFO - Title: WIN BOX
+2025-08-14 12:30:34,067 - INFO - Проверяем дату 19...
+2025-08-14 12:30:34,068 - INFO - Выбираем дату 19...
+2025-08-14 12:30:52,257 - INFO - Клик по '10:00 - 11:00
+
+11:00 - 12:00
+
+12:00 - 13:00
+
+13:00 - 14:00
+
+14:00 - 15:00
+
+15:00 - 16:00
+
+16:00 - 17:00
+
+17:00 - 18:00
+
+18:00 - 19:00' (div:has-text("19")) не удался: ElementHandle.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+2025-08-14 12:30:59,881 - INFO - Проверяем дату 18...
+2025-08-14 12:30:59,881 - INFO - Выбираем дату 18...
+2025-08-14 12:31:49,174 - INFO - Проверяем дату 20...
+2025-08-14 12:31:49,174 - INFO - Выбираем дату 20...
+2025-08-14 12:33:06,999 - INFO - Проверяем дату 21...
+2025-08-14 12:33:06,999 - INFO - Выбираем дату 21...
+2025-08-14 12:34:28,466 - INFO - Открываем Zona Padela: https://n1594888.yclients.com/company/1434507/activity/select?o=act2025-08-05
+2025-08-14 12:34:35,070 - INFO - Проверяем дату 11 (Zona)...
+2025-08-14 12:34:37,229 - INFO - Проверяем дату 12 (Zona)...
+2025-08-14 12:34:39,303 - INFO - Проверяем дату 13 (Zona)...
+2025-08-14 12:34:41,334 - INFO - Проверяем дату 14 (Zona)...
+2025-08-14 12:34:43,356 - INFO - Проверяем дату 15 (Zona)...
+2025-08-14 12:34:45,384 - INFO - Проверяем дату 16 (Zona)...
+2025-08-14 12:34:49,614 - INFO - Ждём 30 сек...
+2025-08-14 12:35:19,626 - INFO - Старт проверки всех сайтов...
+2025-08-14 12:35:20,601 - INFO - Открываем Winbox Падел: https://winboxmsk.ru/schedule?types=padel
+2025-08-14 12:35:24,344 - ERROR - Критическая ошибка для Winbox Падел: Browser.close: Connection closed while reading from the driver
+2025-08-14 12:35:24,924 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed

@@ -1,0 +1,49 @@
+2025-08-24 23:51:33,673 - INFO - Начинаем проверку Winbox Падел (Аккаунт 1)
+2025-08-24 23:51:41,362 - ERROR - Критическая ошибка проверки Winbox Падел (Аккаунт 1): Browser.close: Connection closed while reading from the driver
+2025-08-24 23:51:41,363 - INFO - Начинаем проверку Winbox Падел (Аккаунт 2)
+2025-08-24 23:51:47,356 - ERROR - Критическая ошибка проверки Winbox Падел (Аккаунт 2): coroutine ignored GeneratorExit
+2025-08-24 23:51:47,358 - INFO - Начинаем проверку Zona Padela
+2025-08-24 23:51:47,358 - ERROR - Критическая ошибка проверки Zona Padela: no running event loop
+2025-08-24 23:51:47,363 - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main_monitoring_loop() done, defined at C:\Users\HP\Downloads\winbox_checker\w.py:1742> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[ProtocolCallback.__init__.<locals>.cb() at C:\Users\HP\Downloads\winbox_checker\venv\Lib\site-packages\playwright\_impl\_connection.py:228, <1 more>, ProtocolCallback.__init__.<locals>.cb() at C:\Users\HP\Downloads\winbox_checker\venv\Lib\site-packages\playwright\_impl\_connection.py:228]>
+2025-08-24 23:51:47,364 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-08-24 23:53:18,505 - INFO - Начинаем проверку Winbox Падел (Аккаунт 1)
+2025-08-24 23:53:47,697 - INFO - Успешная авторизация на WinBox - Аккаунт 1
+2025-08-24 23:53:51,254 - INFO - Начинаем тройную проверку даты 21 padel
+2025-08-24 23:53:55,718 - INFO - Начинаем тройную проверку даты 22 padel
+2025-08-24 23:53:59,847 - INFO - Начинаем тройную проверку даты 23 padel
+2025-08-24 23:54:03,977 - INFO - Начинаем тройную проверку даты 24 padel
+2025-08-24 23:54:35,058 - ERROR - Критическая ошибка проверки Winbox Падел (Аккаунт 1): Browser.close: Connection closed while reading from the driver
+2025-08-24 23:54:35,059 - INFO - Начинаем проверку Winbox Падел (Аккаунт 2)
+2025-08-24 23:54:44,538 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-08-24 23:55:03,460 - INFO - Успешная авторизация на WinBox - Аккаунт 2
+2025-08-24 23:55:06,874 - INFO - Начинаем тройную проверку даты 21 padel
+2025-08-24 23:55:11,339 - INFO - Начинаем тройную проверку даты 22 padel
+2025-08-24 23:55:15,486 - INFO - Начинаем тройную проверку даты 23 padel
+2025-08-24 23:55:20,331 - ERROR - Критическая ошибка проверки Winbox Падел (Аккаунт 2): coroutine ignored GeneratorExit
+2025-08-24 23:55:20,333 - INFO - Начинаем проверку Zona Padela
+2025-08-24 23:55:20,334 - ERROR - Критическая ошибка проверки Zona Padela: no running event loop
+2025-08-24 23:55:21,353 - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main_monitoring_loop() done, defined at C:\Users\HP\Downloads\winbox_checker\w.py:1742> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[ProtocolCallback.__init__.<locals>.cb() at C:\Users\HP\Downloads\winbox_checker\venv\Lib\site-packages\playwright\_impl\_connection.py:228, <1 more>, ProtocolCallback.__init__.<locals>.cb() at C:\Users\HP\Downloads\winbox_checker\venv\Lib\site-packages\playwright\_impl\_connection.py:228]>
+2025-08-24 23:56:11,317 - INFO - Начинаем проверку Winbox Падел (Аккаунт 1)
+2025-08-24 23:56:38,448 - INFO - Успешная авторизация на WinBox - Аккаунт 1
+2025-08-24 23:56:41,969 - INFO - Начинаем тройную проверку даты 25 padel
+2025-08-24 23:57:09,892 - ERROR - Ошибка отправки 1599566837: object Message can't be used in 'await' expression
+2025-08-24 23:57:10,024 - ERROR - Ошибка отправки 1422173650: object Message can't be used in 'await' expression
+2025-08-24 23:57:10,091 - INFO - Забронированы padel слоты 25: 18:00 - 19:30
+2025-08-24 23:57:10,093 - ERROR - Ошибка проверки padel 25, попытка 1: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,107 - ERROR - Ошибка проверки padel 25, попытка 2: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,123 - INFO - Начинаем тройную проверку даты 26 padel
+2025-08-24 23:57:10,139 - ERROR - Ошибка проверки padel 26, попытка 1: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,154 - ERROR - Ошибка проверки padel 26, попытка 2: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,168 - INFO - Начинаем тройную проверку даты 27 padel
+2025-08-24 23:57:10,185 - ERROR - Ошибка проверки padel 27, попытка 1: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,200 - ERROR - Ошибка проверки padel 27, попытка 2: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,214 - INFO - Начинаем тройную проверку даты 28 padel
+2025-08-24 23:57:10,229 - ERROR - Ошибка проверки padel 28, попытка 1: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,245 - ERROR - Ошибка проверки padel 28, попытка 2: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-24 23:57:10,463 - INFO - Начинаем проверку Winbox Падел (Аккаунт 2)
